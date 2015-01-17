@@ -15,7 +15,7 @@ just enjoy!
 
 sudo apt-get install build-essential libboost-filesystem-dev libboost-program-options-dev libboost-system-dev libboost-thread-dev scons libboost-all-dev python-pymongo git
 
-git clone https://github.com/skrabban/mongo-nonx86
+git clone https://github.com/sayfullah/MongoPi.git
 
 cd mongo-nonx86/
 
